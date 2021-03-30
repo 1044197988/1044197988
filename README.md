@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**1044197988/1044197988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2>About me</h2>
 <p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></i></p>
 
@@ -40,5 +36,6 @@
 <a href="https://profile.codersrank.io/user/volmarg/">  <img src="data/badges/codersrank.svg"></a>
 <img src="data/badges/discord.svg">
 </p>
-
+<!--
+**1044197988/1044197988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

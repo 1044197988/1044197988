@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2>About me</h2>
 <p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/1044197988/">here</a></i></p>
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2>About me</h2>
-<p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/Volmarg/Volmarg/raw/main/data/nope.jpg">here</a></i></p>
+<p align="center"><i>Hobby Frontend/Backend developer. More about me <a href="https://github.com/1044197988/">here</a></i></p>
 
 <h2>Free time</h2>
 <ul><li><img src="data/icons/electric-guitar.png" width="25"> E-guitar (generating loud noices) ,
@@ -29,11 +29,6 @@
 
 <h2>You can find me here</h2>
 <p align="center">
-<a href="mailto:dwlodarczyk12@gmail.com" >  <img src="data/badges/gmail.svg"></a>
-<a href="https://open.spotify.com/user/volmarg">  <img src="data/badges/spotify.svg"></a>
-<a href="https://www.linkedin.com/in/volmarg/">  <img src="data/badges/linkedin.svg"></a>
-<a href="https://www.xing.com/profile/Dariusz_Wlodarczyk2">  <img src="data/badges/xing.svg"></a>
-<a href="https://profile.codersrank.io/user/volmarg/">  <img src="data/badges/codersrank.svg"></a>
 <img src="data/badges/discord.svg">
 </p>
 <!--

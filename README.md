@@ -9,26 +9,26 @@
 
 <h2>Tech stack</h2>
 <p float="left" align="center">   
-  <img src="data/badges/bootstrap .svg">    
-  <img src="data/badges/composer.svg"  >     
-  <img src="data/badges/css3.svg" 	   >    
-  <img src="data/badges/doctrine.svg"  >    
-  <img src="data/badges/git.svg"       >    
-  <img src="data/badges/html5.svg" 	   >    
-  <img src="data/badges/jquery.svg"    >    
-  <img src="data/badges/js.svg" 	   >    
-  <img src="data/badges/mysql.svg" 	   >	    
-  <img src="data/badges/npm.svg" 	   >    
-  <img src="data/badges/phpstorm.svg"  >	    
-  <img src="data/badges/sass.svg" 	   >
-  <img src="data/badges/php.svg"   >
-  <img src="data/badges/symfony.svg"   >
-  <img src="data/badges/ts.svg" 	   >
-  <img src="data/badges/ubuntu.svg"    ></p>
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/bootstrap .svg">    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/composer.svg"  >     
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/css3.svg" 	   >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/doctrine.svg"  >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/git.svg"       >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/html5.svg" 	   >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/jquery.svg"    >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/js.svg" 	   >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/mysql.svg" 	   >	    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/npm.svg" 	   >    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/phpstorm.svg"  >	    
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/sass.svg" 	   >
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/php.svg"   >
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/symfony.svg"   >
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/ts.svg" 	   >
+  <img src="https://github.com/1044197988/1044197988/tree/main/data/badges/ubuntu.svg"    ></p>
 
 <h2>You can find me here</h2>
 <p align="center">
-<img src="data/badges/discord.svg">
+<img src="https://github.com/1044197988/1044197988/tree/main/data/badges/discord.svg">
 </p>
 <!--
 **1044197988/1044197988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

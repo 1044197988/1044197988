@@ -8,14 +8,14 @@
 
 <h2>空闲时间</h2>
 <ul><li><img src="data/icons/code.png" width="20"> 敲代码 (解决bugs)
-<li><img src="data/icons/training.png" width="20"> 健身</ul>
+<li><img src="data/icons/training.png" width="20"> 健身
 - 🌱 我正在学习NLP、集成电路、KG
 
 
 - ❓ 问我关于CV堆栈和相关技术的任何事情
 
 
-
+</ul>
 ## 技术栈
 <table><tr><td valign="top" width="33%">
 

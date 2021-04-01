@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1044197988" alt="mohamedelashri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1044197988" alt="1044197988" /> 
+<img src="https://img.shields.io/github/followers/1044197988?" alt="1044197988" /> 
+</p>
 
 <h2>关于我</h2>
 <p align="center"><i>人工智能爱好者，<a href="https://www.zhihu.com/people/tian-shan-lao-ba-wang">你可以在这里找到我</a></i></p>

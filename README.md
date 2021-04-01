@@ -14,7 +14,7 @@
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/sass.svg" 	   >
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/ubuntu.svg"    ></p>
 
-<p float="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1044197988&layout=compact&hide=html" alt="1044197988"  />
 </p>
 <p align="center">

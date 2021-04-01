@@ -69,7 +69,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1044197988&layout=compact&hide=html" alt="1044197988"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api？username = anuraghazra＆show_icons = true＆theme = radical"）
+  <img align="center" src="https://github-readme-stats.vercel.app/api？username = 1044197988＆show_icons = true＆theme = radical" alt="1044197988"  />
 </p>
 
 

@@ -10,12 +10,12 @@
 <ul><li><img src="data/icons/code.png" width="20"> 敲代码 (解决bugs)
 <li><img src="data/icons/training.png" width="20"> 健身</ul>
 
-## My Skill Set  
+## 技术栈
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### A
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
@@ -32,7 +32,7 @@
 
 
 
-### Backend  
+### B
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
@@ -49,7 +49,7 @@
 
 
 
-### DevOps  
+### C  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="75" />  

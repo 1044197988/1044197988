@@ -1,13 +1,13 @@
-<h2>About me</h2>
-<p align="center"><i>人工智能爱好者，更多关于我 <a href="https://github.com/1044197988/">here</a></i></p>
+<h2>关于我</h2>
+<p align="center"><i>人工智能爱好者<a href="https://www.zhihu.com/people/tian-shan-lao-ba-wang">你可以在这里找到我</a></i></p>
 
 <h2>Free time</h2>
-<ul><li><img src="data/icons/electric-guitar.png" width="25"> E-guitar (generating loud noices) ,
-<li><img src="data/icons/gw2.png" width="20">  Guild Wars 2 (slaying dragons),
-<li><img src="data/icons/code.png" width="20"> Coding (fixing bugs),
-<li><img src="data/icons/training.png" width="20"> Training (making space for more),</ul>
+<ul><li><img src="data/icons/electric-guitar.png" width="25"> 电子吉他（产生响亮的噪音） ,
+<li><img src="data/icons/gw2.png" width="20">  激战2（屠龙记）,
+<li><img src="data/icons/code.png" width="20"> 敲代码 (解决bugs),
+<li><img src="data/icons/training.png" width="20"> 造轮子,</ul>
 
-<h2>Tech stack</h2>
+<h2>技术栈</h2>
 <p float="left" align="center">   
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/bootstrap .svg">    
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/composer.svg"  >     
@@ -26,7 +26,7 @@
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/ts.svg" 	   >
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/ubuntu.svg"    ></p>
 
-<h2>You can find me here</h2>
+<h2>你可以在这里找到我</h2>
 <p align="center">
 <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/discord.svg">
 </p>

@@ -71,11 +71,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1044197988&show_icons=true&theme=radical" alt="1044197988"  />
 </p>
 
-
-<h2>你可以在这里找到我</h2>
-<p align="center">
-<img src="https://github.com/1044197988/1044197988/blob/main/data/badges/discord.svg">
-</p>
 <!--
 **1044197988/1044197988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

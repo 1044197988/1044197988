@@ -10,7 +10,7 @@
 <ul><li><img src="data/icons/code.png" width="20"> 敲代码 (解决bugs)
 <li><img src="data/icons/training.png" width="20"> 健身</ul>
 
-## 技术栈  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 

@@ -1,7 +1,7 @@
 <h2>关于我</h2>
-<p align="center"><i>人工智能爱好者<a href="https://www.zhihu.com/people/tian-shan-lao-ba-wang">你可以在这里找到我</a></i></p>
+<p align="center"><i>人工智能爱好者，<a href="https://www.zhihu.com/people/tian-shan-lao-ba-wang">你可以在这里找到我</a></i></p>
 
-<h2>Free time</h2>
+<h2>空闲时间</h2>
 <ul><li><img src="data/icons/electric-guitar.png" width="25"> 电子吉他（产生响亮的噪音） ,
 <li><img src="data/icons/gw2.png" width="20">  激战2（屠龙记）,
 <li><img src="data/icons/code.png" width="20"> 敲代码 (解决bugs),

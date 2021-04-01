@@ -14,6 +14,13 @@
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/sass.svg" 	   >
   <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/ubuntu.svg"    ></p>
 
+<p float="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1044197988&layout=compact&hide=html" alt="1044197988"  />
+</p>
+<p align="center">
+	<a href="https://github.com/1044197988"><img src="https://img.shields.io/github/followers/MohamedElashri.svg?label=GitHub&style=social" alt="GitHub"></a>
+</p>
+
 <h2>你可以在这里找到我</h2>
 <p align="center">
 <img src="https://github.com/1044197988/1044197988/blob/main/data/badges/discord.svg">

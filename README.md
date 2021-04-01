@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1044197988" alt="1044197988" /> 
-<img src="https://img.shields.io/github/followers/1044197988?" alt="1044197988" /> 
+<img src="https://img.shields.io/github/followers/1044197988" alt="1044197988" /> 
 <img src="https://img.shields.io/github/stars/1044197988" alt="1044197988" /> 
 </p>
 

@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1044197988" alt="1044197988" /> 
 <img src="https://img.shields.io/github/followers/1044197988?" alt="1044197988" /> 
 <img src="https://img.shields.io/github/stars/1044197988" alt="1044197988" /> 
@@ -66,7 +70,7 @@
 
 <br/>  
 
-
+<h2>Github统计</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1044197988&layout=compact&hide=html" alt="1044197988"  />
   <br/><br/><br/>  

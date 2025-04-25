@@ -5,7 +5,7 @@
 
 <h2>关于我</h2>
 <p align="center"><i>人工智能爱好者，<a href="https://www.zhihu.com/people/tian-shan-lao-ba-wang">你可以在这里找到我</a></i></p>
-<p align="center"><i>个人博客，一个全方位的人工智能知识宝库，专注于分享先进AI和独特的技术内容<a href="https://www.aiknowledge.cn">你可以在这里找到我</a></i></p>
+<p align="center"><i>灏天文库，一个全方位的人工智能知识宝库，专注于分享先进AI和独特的技术内容<a href="https://www.aiknowledge.cn">你可以在这里找到我</a></i></p>
 <p align="center"><i>公众号：人工智能知识与实践</i></p>
 
 <h2>空闲时间</h2>

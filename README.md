@@ -6,7 +6,8 @@
 <h2>关于我</h2>
 <p align="center"><i>人工智能爱好者，<a href="https://www.zhihu.com/people/tian-shan-lao-ba-wang">你可以在这里找到我</a></i></p>
 <p align="center"><i>灏天文库，一个全方位的人工智能知识宝库，专注于分享先进AI和独特的技术内容<a href="https://www.aiknowledge.cn">你可以在这里找到我</a></i></p>
-<p align="center"><i>公众号：人工智能知识与实践</i></p>
+<p align="center"><i>公众号1：灏天文库</i></p>
+<p align="center"><i>公众号1：灏天说AI</i></p>
 
 <h2>空闲时间</h2>
 <ul><li><img src="data/icons/code.png" width="20"> 敲代码 (解决bugs)
@@ -40,7 +41,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-	@@ -52,9 +53,9 @@
+	
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="75" />  
